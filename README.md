@@ -1,1 +1,0 @@
-# firevipr-frontend
